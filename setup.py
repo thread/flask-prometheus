@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='Flask-Prometheus',
-    version='0.0.1',
-    url='http://github.com/sbarratt/flask-prometheus',
+    name='Thread-Flask-Prometheus',
+    version='0.0.3',
+    url='http://github.com/thread/thread-flask-prometheus',
     license='BSD',
     author='Shane Barratt',
     author_email='stbarratt@gmail.com',
